@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.githack.com	TRUE	/	FALSE	1999999999	__cf_bm	68bd41e404e16ede1824ce36cb1f1e3cd8e114a4-1627710882-1800-AXG5WrV3MYhcVdZOuFA4Lbe9Ytd8O7JW43D07QzriPse0kKvNj3Ka+TwDERhOoBQhB/gNvzfxW4v8u9U9BR95kg=
+raw.githack.com	TRUE	/	FALSE	1999999999	SameSite	None
+
